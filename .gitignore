@@ -1,0 +1,12 @@
+# Veri setleri
+Data/
+
+# Model eğitim çıktıları ve loglar
+runs/
+
+# VS Code yerel ayarları
+.vscode/
+
+# Güvenlik (Şifreler ve API keyler için)
+.env
+__pycache__/
